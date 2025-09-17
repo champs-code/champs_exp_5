@@ -14,7 +14,7 @@ The form checks whether the inputs are correct before submission and shows error
 - Error messages shown under the input fields  
 - Prevents form submission if validation fails  
 
-##How to Run this Project
+## How to Run this Project
 Click the green <> Code button.
 Download the ZIP file.
 Extract the files.
