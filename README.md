@@ -1,10 +1,10 @@
-#Experiment 5: Form Validation (JavaScript Form Handling)
+# Experiment 5: Form Validation (JavaScript Form Handling)
 
-##Description  
+## Description  
 This project is about building a registration form with client-side validation using JavaScript.  
 The form checks whether the inputs are correct before submission and shows error messages if something is wrong.
 
-## 🛠️ Features  
+## Features  
 - Input fields: Full Name, Email, Password, Confirm Password, and Message
 - Validation for:  
   - Empty fields  
